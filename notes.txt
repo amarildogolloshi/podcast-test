@@ -1,1 +1,2 @@
-
+#   Apple RSS Feed Sample
+    https://help.apple.com/itc/podcasts_connect/#/itcbaf351599
